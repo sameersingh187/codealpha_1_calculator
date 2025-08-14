@@ -32,7 +32,7 @@ calculator/
 ## 🖥️ Local Setup
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/SameerSingh017/CodSoft_3_calculator.git
+   git clone https://github.com/SameerSingh187/codealpha_2_calculator.git
    cd calculator
 Or 
 
