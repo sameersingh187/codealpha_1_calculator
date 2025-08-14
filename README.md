@@ -4,7 +4,7 @@ A simple, responsive calculator built with **HTML**, **CSS**, and **JavaScript**
 
 
 ## 🖼️ View Page
-[View Calculator](https://calculator-by-ss0.netlify.app)
+[View Calculator](https://calculator2-by-ss.netlify.app)
 
 
 ## ✨ Features
